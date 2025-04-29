@@ -1,0 +1,24 @@
+# Данный плагин сделан командой ZAKAZ Studio
+# Мы разрабатываем плагины майнкрафт
+# Наш Discord: https://discord.gg/RQbEZwEZGu
+# Наш Telegram: https://t.me/zakazstudio
+# Perms: zcautomessage.reload
+
+delay: 120 # Задержка между сообщениями в секундах
+random: false # true - случайный порядок сообщений, false - по порядку
+prefix: "[&#44ADC1[&#4AB2B7Z&#50B8AEA&#56BDA4K&#5DC39BA&#63C891Z &#6FD37ES&#75D874t&#7BDD6Au&#82E361d&#88E857i&#8EEE4Eo&#94F344]] "
+         # Префикс перед каждым сообщением (можно оставить "")
+
+messages:
+  example:
+    - "&#C367A2С&#BF66A2е&#BA65A3р&#B664A3в&#B163A3е&#AD62A4р &#A460A4и&#A060A5с&#9B5FA5п&#975EA5о&#935DA6л&#8E5CA6ь&#8A5BA6з&#855AA7у&#8159A7е&#7D58A7т &#7456A8Z&#6F55A8C&#6B54A9A&#6753A9u&#6252A9t&#5E52AAo&#5951AAM&#5550AAe&#514FABs&#4C4EABs&#484DABa&#434CACg&#3F4BACe"
+
+  example1:
+    - "&#44ADC1С&#47B0BDо&#4AB2B8з&#4DB5B4д&#4FB7AFа&#52BAABн&#55BCA6о &#5BC19Dс&#5EC499т&#61C694у&#63C990д&#66CB8Bи&#69CE87е&#6CD083й &#72D57AZ&#75D875A&#77DA71K&#7ADD6CA&#7DDF68Z &#83E45FS&#86E75At&#89E956u&#8BEC51d&#8EEE4Di&#91F148o&#94F344!"
+
+
+
+  # Сообщения для ошибок и уведомлений
+  errors:
+    no-permission: "&#ff0000У вас нет прав для выполнения этой команды."
+    reload-success: "&#00ff00Авто-сообщения перезагружены!"
