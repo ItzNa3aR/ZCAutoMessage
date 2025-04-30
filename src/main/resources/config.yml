@@ -3,6 +3,7 @@
 # Наш Discord: https://discord.gg/RQbEZwEZGu
 # Наш Telegram: https://t.me/zakazstudio
 # Perms: zcautomessage.reload
+# Имеет возможность использовать PlaceHolderAPI
 
 delay: 120 # Задержка между сообщениями в секундах
 random: false # true - случайный порядок сообщений, false - по порядку
@@ -15,7 +16,6 @@ messages:
 
   example1:
     - "&#44ADC1С&#47B0BDо&#4AB2B8з&#4DB5B4д&#4FB7AFа&#52BAABн&#55BCA6о &#5BC19Dс&#5EC499т&#61C694у&#63C990д&#66CB8Bи&#69CE87е&#6CD083й &#72D57AZ&#75D875A&#77DA71K&#7ADD6CA&#7DDF68Z &#83E45FS&#86E75At&#89E956u&#8BEC51d&#8EEE4Di&#91F148o&#94F344!"
-
 
 
   # Сообщения для ошибок и уведомлений

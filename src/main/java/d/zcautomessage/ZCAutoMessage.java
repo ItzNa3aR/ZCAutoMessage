@@ -84,4 +84,3 @@ public class ZCAutoMessage extends JavaPlugin {
         sender.sendMessage(message);
     }
 }
-

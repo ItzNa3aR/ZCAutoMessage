@@ -1,6 +1,7 @@
 name: ZCAutoMessage
 version: '${project.version}'
 main: d.zcautomessage.ZCAutoMessage
+depend: [PlaceholderAPI]
 authors:
   - Na3aR
   - ZAKAZ Studio
